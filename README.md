@@ -28,7 +28,7 @@ if you want to get rid of the package:
 - DraculaPro
 - VanHelsing
 
-You can build your own too - just peek into the **color.css** and make your own color combo!
+You can build your own too - just peek into the **color.css** and make your own color combo! And post your color combination here as an issue!
 
 ## Problems? Glitches?
 
