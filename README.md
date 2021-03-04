@@ -14,7 +14,11 @@ Default color scheme in the package is **VanHelsing**, but you can change it to 
 
 after changing the color scheme, force-reload the page in the browser **(Shift-F5)**
 
-#Seven color schemes:
+if you want to get rid of the package:
+
+    sudo pkg delete -y os-theme-dark-devel
+
+#Seven provided color schemes:
 
 - DarkOrange
 - Blade
@@ -23,3 +27,5 @@ after changing the color scheme, force-reload the page in the browser **(Shift-F
 - Morbius
 - DraculaPro
 - VanHelsing
+
+You can build your own too - just peek into the color.css and make your own color combo!
