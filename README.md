@@ -28,4 +28,8 @@ if you want to get rid of the package:
 - DraculaPro
 - VanHelsing
 
-You can build your own too - just peek into the color.css and make your own color combo!
+You can build your own too - just peek into the **color.css** and make your own color combo!
+
+## Problems
+
+I didn't clean-up the **main.css** completely; there are plenty of direct color references still in the file (instead of using css variables) and I have no idea in which dialogs they appear. So, if something renders wrong, make a screenshot and submit an issue - or (even better) find a problematic styling block in main.css and let me know what to fix and clean.
