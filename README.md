@@ -16,10 +16,10 @@ after changing the color scheme, force-reload the page in the browser **(Shift-F
 
 #Seven color schemes:
 
-DarkOrange
-Blade
-Buffy
-Lincoln
-Morbius
-DraculaPro
-VanHelsing
+- DarkOrange
+- Blade
+- Buffy
+- Lincoln
+- Morbius
+- DraculaPro
+- VanHelsing
