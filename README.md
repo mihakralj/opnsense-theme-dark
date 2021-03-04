@@ -7,12 +7,12 @@ the .txz package can be installed with:
 
 after installation, a new dark theme should appear in System-General -> Theme
 
-Color scheme in the package is Dracula Van Helsing, but you can change it to any of 7 themes:
+Default color scheme in the package is **VanHelsing**, but you can change it to any of supplied seven themes:
 
     cd /usr/local/opnsense/www/themes/dark/build/css
     sudo cp DraculaPro.css colors.css
 
-after changing the color scheme, force-reload the page in the browser (Shift-F5)
+after changing the color scheme, force-reload the page in the browser **(Shift-F5)**
 
 #Seven color schemes:
 
@@ -23,4 +23,3 @@ Lincoln
 Morbius
 DraculaPro
 VanHelsing
-    
