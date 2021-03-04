@@ -20,13 +20,15 @@ if you want to get rid of the package:
 
 #Seven provided color schemes:
 
-- DarkOrange
-- Blade
-- Buffy
-- Lincoln
-- Morbius
-- DraculaPro
-- VanHelsing
+- DarkOrange (install with `sudo cp DarkOrange.css colors.css`)
+- Blade (install with `sudo cp Blade.css colors.css`)
+- Buffy (install with `sudo cp Buffy.css colors.css`)
+- Lincoln (install with `sudo cp Lincoln.css colors.css`)
+- Morbius (install with `sudo cp Morbius.css colors.css`)
+- DraculaPro (install with `sudo cp DraculaPro.css colors.css`)
+- VanHelsing (install with `sudo cp VanHelsing.css colors.css`)
+
+Except the first one, all other color themes are inspired by Zeno Rocha's Dracula dark theme https://draculatheme.com/
 
 You can build your own too - just peek into the **color.css** and make your own color combo! And post your color combination here as an issue!
 
