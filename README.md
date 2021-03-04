@@ -1,5 +1,5 @@
 # opnsense-theme-dark
-Dark theme for OPNsense
+Dark theme for OPNsense, because real networking people dwell in the dark.
 
 the .txz package can be installed with:
 
