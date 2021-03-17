@@ -231,7 +231,7 @@
         <Reboot order="10" url="/ui/core/reboot" cssClass="fa fa-repeat fa-fw"/>
         <PowerOff VisibleName="Power Off" order="20" url="/ui/core/halt" cssClass="fa fa-plug fa-fw"/>
     </Power>
-    <Help order="90" cssClass="fa fa-support">
+    <Help order="90" cssClass="fa fa-question-circle">
         <Wizard order ="20" url="/wizard.php?xml=system" cssClass="fa fa-magic fa-fw"/>
         <Documentation order="30" url="https://docs.opnsense.org/" cssClass="fa fa-book" IsExternal="Y"/>
         <Forum VisibleName="User Forum" order="40" url="https://forum.opnsense.org/" cssClass="fa fa-ticket" IsExternal="Y"/>
